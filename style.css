@@ -1,0 +1,17 @@
+		body {background-color: purple;
+		color: black;}
+		
+		h1 {text-align: center;
+		background-color: red;}
+		
+		.backcolor {background-color: green;}
+		
+		#tableheader {font-style: bold;
+		font-style: italic;}
+		
+		img {border-color: powderblue;
+		text-align: center;
+		heigt: 150px;
+		width: 150px;}
+		
+		.footer {font-size: 10px;}
